@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("Hello from your friens")
+
+        println("Add to line to check")
     }
 }
